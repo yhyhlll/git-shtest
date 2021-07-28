@@ -6,3 +6,4 @@ hello atguigu bbbbbbb
 hello atguigu master
 hello atguigu  hot-fix
 hello atguigu  hot-fix
+你好啊，我是git
